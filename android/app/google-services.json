@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "537743456497",
+    "firebase_url": "https://docbook-64953.firebaseio.com",
+    "project_id": "docbook-64953",
+    "storage_bucket": "docbook-64953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537743456497:android:55086c640e362f98d9d150",
+        "android_client_info": {
+          "package_name": "com.acosdemega.docbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537743456497-agidsicii5iojts30gsq48dsh0q86g0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acosdemega.docbook",
+            "certificate_hash": "9b6f7b29927271d687abf47f22b985a6f92f7eb6"
+          }
+        },
+        {
+          "client_id": "537743456497-g3pgq4l3bv6fg6kfoik21uqmn77l23fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvWxeKyUw1Fdq5-EqNlz2tTYSCfy2UMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537743456497-g3pgq4l3bv6fg6kfoik21uqmn77l23fh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537743456497-7tutof7n9ms708qf4lvtonqith82g6a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acosdemega.docbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
